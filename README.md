@@ -1,7 +1,8 @@
 # blog-app
 
 ## Description
-RESTful routing blog application.  Create, Read, Update, or Delete blog posts stored in MongoDB.
+RESTful routing blog application.  Create, Read, Update, or Delete blog posts stored in MongoDB.<br>
+Uses Semantic UI css framework.
 
 ## Routing 
 ![Alt text](https://github.com/wtRinaldi/blog-app/blob/master/routing.png)
